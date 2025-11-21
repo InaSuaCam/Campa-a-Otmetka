@@ -1,0 +1,2 @@
+# Calcula o logaritmo da seguinte matriz:$$A:=\begin{pmatrix}1&1&0\\0&1&1\\0&0&1\end{pmatrix}$$
+Se $f(x)=\ln x$, $f'(x)=\frac{1}{x}$ e $f''(x)=-\frac{1}{x^{2}}$. Así,  $$\ln A=f(A)=\begin{pmatrix}f(1)&f'(1)&\frac{f''(1)}{2}\\0&f(1)&f'(1)\\0&0&f(1)\end{pmatrix}=\begin{pmatrix}0&1&-\frac{1}{2}\\0&0&1\\0&0&0\end{pmatrix}$$
