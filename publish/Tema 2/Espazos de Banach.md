@@ -1,2 +1,0 @@
-- [[Exercicios recomendados 2º parcial]]
-- Por facer

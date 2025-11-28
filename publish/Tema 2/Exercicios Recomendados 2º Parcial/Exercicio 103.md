@@ -1,6 +1,0 @@
-# Atopa o erro no seguinte razoamento.
-
-## *Sexa $X$ un espazo de Banach complexo e $T\in\mathcal{LB}(X), \lambda\in\mathbb{C}$. Como $T$ é continuo, tamén o é $\lambda\id-T:X\to X$. Vexamos que tódalas sucesións converxentes de $(\lambda\id-T)(X)$ teñen o seu límite en $(\lambda\id-T)(X).$ En efecto, se $(x_{n})_{n\in\mathbb{N}}$ é unha sucesión converxente a $x$ en $X$, $$(\lambda\id-T)x_{n}\to(\lambda\id-T)x\in(\lambda\id-T)(X).$$Polo tanto, $(\lambda\id-T)(X)$ é pechado en $X$. Concluímos entón que $\overline{(\lambda\id-T)(X)}=(\lambda\id-T)(X)$.*
-## *Supoñamos agora que $\lambda\in\sigma(T)\setminus\sigma_{p}(T)$, é dicir, $\lambda\id-T$ é inxectivo pero non sobrexectivo, entón $$\overline{(\lambda\id-T)(X)}=(\lambda\id-T)(X)\neq X,$$ polo que concluímos que $\lambda\in\sigma_{r}(T)$ e, polo tanto, $\sigma_{c}(T)=\emptyset$.*
-
-Realmente, non está comprobado que $(\lambda\id-T)(X)$ sexa pechado. Para facelo, necesitaríamos tomar $(y_{n})_{n\in\mathbb{N}}\subset(\lambda\id-T)(X)$ converxente, para a que existe $(x_{n})_{n\in\mathbb{N}}\subset X/y_{n}=Tx_{n}$, pero non significa que $(x_{n})_{n\in\mathbb{N}}$ converxa en $X$ e o argumento é erróneo.
