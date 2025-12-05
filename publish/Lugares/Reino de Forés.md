@@ -4,8 +4,8 @@ tags:
 ---
 Reino gobernado polo [[Rei Balliu]] e a [[Raíña Vanat]]. Está dividido en condados, ducados e unha marca, a [[Marca de Azur]]. Os territorios do Reino de Forés comprenden:
 
-- O [[Arquipélago da Soidade]], tamén coñecido como [[Arquipélago da Soidade|Condado de Kakutani]].
-- A [[Illa do Lume]], tamén coñecido como [[Illa do Lume|Condado de Fordsuhaf]].
+- O [[Arquipélago da Soidade]], tamén coñecido como [[Arquipélago da Soidade|Condado de Hokovnit]].
+- A [[Illa do Lume]], tamén coñecido como [[Illa do Lume|Condado de Kakutani]].
 - A [[Marca de Azur]].
 - O [[Ducado de Nungar]].
 - Ducado 2.
